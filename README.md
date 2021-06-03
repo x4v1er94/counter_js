@@ -31,10 +31,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-It is a simple counter writtent in HTML / CSS and managed by Javascript code, it increases and decreases the value in a disabled input box.
-The structure of the javascript code is formed by a function of reading the value that is called after the initial check of the complete loading of the page to capture the value and associate it with the variable count. 
-The variable count will be increased, decreased or reset by the buttons that call the relative functions. 
-Each function linked to the buttons calls up the update function of the count variable.
+It is a simple counter writtent in HTML / CSS and managed by Javascript code, it increases and decreases the value in a disabled input box.<br>
+The structure of the javascript code is formed by a function of reading the value that is called after the initial check of the complete loading of the page to capture the value and associate it with the variable count. <br>
+The variable count will be increased, decreased or reset by the buttons that call the relative functions. <br>
+Each function linked to the buttons calls up the update function of the count variable.<br>
 
 ### Built With
 * [HTML]
@@ -46,9 +46,9 @@ Each function linked to the buttons calls up the update function of the count va
 <!-- USAGE EXAMPLES -->
 ### Usage
 
-Click + to add 1
-Click - to decrease by 1
-Click "Reset Counter" to restore counter at the start value
+Click + to add 1<br>
+Click - to decrease by 1<br>
+Click "Reset Counter" to restore counter at the start value<br>
 
 
 <!-- CONTACT -->
