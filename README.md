@@ -2,11 +2,10 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Progetto Counter JS</h3>
+  <h1 align="center">Project Counter JS</h1>
 
   <p align="center">
-    <br />
-    <a href="https://github.com/xav1er94/counter_js"><strong>Provami»</strong></a>
+    <a href="https://github.com/xav1er94/counter_js"><strong>Try me»</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
