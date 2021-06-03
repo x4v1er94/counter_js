@@ -32,7 +32,7 @@
 ## About The Project
 
 It is a simple counter writtent in HTML / CSS and managed by Javascript code, it increases and decreases the value in a disabled input box.<br>
-The structure of the javascript code is formed by a function of reading the value that is called after the initial check of the complete loading of the page to capture the value and associate it with the variable count. <br>
+The structure of the javascript code is formed by a function that reads the initial value of the text box and associates it with the variable count after the initial check of the complete loading of the page. <br>
 The variable count will be increased, decreased or reset by the buttons that call the relative functions. <br>
 Each function linked to the buttons calls up the update function of the count variable.<br>
 
